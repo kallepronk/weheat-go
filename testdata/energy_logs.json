@@ -1,0 +1,28 @@
+[
+  {
+    "interval": "x",
+    "timeBucket": "2026-09-03T12:00:00Z",
+    "totalEInHeating": 1.5,
+    "totalEInStandby": 1.5,
+    "totalEInDhw": 1.5,
+    "totalEInHeatingDefrost": 1.5,
+    "totalEInDhwDefrost": 1.5,
+    "totalEInCooling": 1.5,
+    "totalEOutHeating": 1.5,
+    "totalEOutDhw": 1.5,
+    "totalEOutHeatingDefrost": 1.5,
+    "totalEOutDhwDefrost": 1.5,
+    "totalEOutCooling": 1.5,
+    "averagePowerEInHeating": 1.5,
+    "averagePowerEInStandby": 1.5,
+    "averagePowerEInDhw": 1.5,
+    "averagePowerEInHeatingDefrost": 1.5,
+    "averagePowerEInDhwDefrost": 1.5,
+    "averagePowerEInCooling": 1.5,
+    "averagePowerEOutHeating": 1.5,
+    "averagePowerEOutDhw": 1.5,
+    "averagePowerEOutHeatingDefrost": 1.5,
+    "averagePowerEOutDhwDefrost": 1.5,
+    "averagePowerEOutCooling": 1.5
+  }
+]

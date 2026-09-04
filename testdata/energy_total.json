@@ -1,0 +1,20 @@
+{
+  "heatPumpId": "x",
+  "totalEInHeating": 1.5,
+  "totalEInStandby": 1.5,
+  "totalEInDhw": 1.5,
+  "totalEInHeatingDefrost": 1.5,
+  "totalEInDhwDefrost": 1.5,
+  "totalEInCooling": 1.5,
+  "totalEOutHeating": 1.5,
+  "totalEOutDhw": 1.5,
+  "totalEOutHeatingDefrost": 1.5,
+  "totalEOutDhwDefrost": 1.5,
+  "totalEOutCooling": 1.5,
+  "totalEInIUStandby": 1.5,
+  "totalEInIUHeating": 1.5,
+  "totalEInIUDhw": 1.5,
+  "totalEInIUHeatingDefrost": 1.5,
+  "totalEInIUDhwDefrost": 1.5,
+  "totalEInIUCooling": 1.5
+}
